@@ -1,1 +1,1 @@
-hola
+Esta libreria puede usarse en cualquier proyecto con C# y .NET Framework 4.0
